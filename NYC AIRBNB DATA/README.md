@@ -1,10 +1,10 @@
- 🏙️ Sprint 1: Spreadsheet Data Analysis – NYC Airbnb Market
+ Sprint 1: Spreadsheet Data Analysis – NYC Airbnb Market
 
 Welcome to my second business intelligence project from the TripleTen Data Analytics Bootcamp. This project showcases my ability to clean spreadsheet data, create pivot tables, and generate actionable insights for a client in the vacation rental market.
 
 ---
 
-## 📌 Project Summary
+## Project Summary
 
 **Client:** Anonymous Real Estate Investor  
 **Objective:** Recommend ideal neighborhoods and property sizes in Manhattan for vacation rental investment based on Airbnb data  
@@ -13,7 +13,7 @@ Welcome to my second business intelligence project from the TripleTen Data Analy
 
 ---
 
-## 🗽 Project Background
+## Project Background
 
 The client is exploring investment opportunities in New York City’s vacation rental market. They want data-driven recommendations on:
 
@@ -22,9 +22,9 @@ The client is exploring investment opportunities in New York City’s vacation r
 
 ---
 
-## 📊 Analysis Overview
+## Analysis Overview
 
-### 🔍 1. Attractiveness by Neighborhood & Property Size
+### 1. Attractiveness by Neighborhood & Property Size
 
 - **Metric Used:** Number of reviews in the last 12 months (proxy for demand)
 - **Top Neighborhoods:**  
@@ -45,19 +45,19 @@ The client is exploring investment opportunities in New York City’s vacation r
 
 ---
 
-### 💰 2. Revenue Analysis
+### 2. Revenue Analysis
 
 To estimate earnings:
 - Cleaned calendar data and calculated nightly revenue (only when “available” = false)
 - Summed 30-day revenue and projected **annual revenue** by multiplying by 12
 
-> 📈 **Top Listing ID:** `49946551`  
-> 💵 **30-Day Revenue:** `$29,940`  
-> 📆 **Estimated Annual Revenue:** `$359,280`
+> **Top Listing ID:** `49946551`  
+> **30-Day Revenue:** `$29,940`  
+> **Estimated Annual Revenue:** `$359,280`
 
 ---
 
-## ✅ Key Recommendations
+## Key Recommendations
 
 - Focus investments on 1-bedroom units in high-demand neighborhoods (e.g., Hell’s Kitchen, East Village)
 - Target studio units only in Midtown, where they outperform
@@ -66,7 +66,7 @@ To estimate earnings:
 
 ---
 
-## 🧹 Data Cleaning Steps
+## Data Cleaning Steps
 
 - Created `neighborhood_clean` column to fix inconsistent naming
 - Replaced blank `bedrooms` with `0` to represent studios → stored in `bedrooms_clean`
@@ -74,14 +74,14 @@ To estimate earnings:
 
 ---
 
-## 📄 Final Report
+## Final Report
 
 📎 **[Download Full PDF Report](./nyc%20airbnb%20data%20analysis.pdf)**  
-_(Make sure to upload this PDF to your GitHub repo.)_
+
 
 ---
 
-## 🛠️ Skills Demonstrated
+## Skills Demonstrated
 
 - Spreadsheet cleaning & transformation
 - Pivot table analysis
@@ -91,16 +91,16 @@ _(Make sure to upload this PDF to your GitHub repo.)_
 
 ---
 
-## 👩🏽‍💼 About Me
+## About Me
 
 **Author:** Chiamaka Obieli  
 **Role:** Aspiring Business Intelligence Analyst  
 **Bootcamp:** TripleTen Data Analytics Program  
-**LinkedIn:** [Your LinkedIn Profile URL]  
-**Email:** [your.email@example.com]
+**LinkedIn:** [Chiamaka Obieli](www.linkedin.com/in/chiamaka-obieli-939b5284) 
+**Email:** [somaksy@gmail.com]
 
 ---
 
-## 🚀 What’s Next?
+## What’s Next?
 
 Future projects will explore hands-on data analysis with SQL, Python, and Power BI. This project built the foundation for transforming raw spreadsheet data into powerful business insights.
