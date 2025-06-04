@@ -98,7 +98,6 @@ Skills Demonstrated
 View Full Report
 
 📎 [Download PDF Report](./Copy%20of%20Business%20Analytics%20Project.pdf)  
-_(Be sure to include this file in your GitHub repository alongside the README.)_
 
 ---
 
