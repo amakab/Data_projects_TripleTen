@@ -1,6 +1,6 @@
-Shopify App Analysis — Power BI Project
+# Shopify App Analysis — Power BI Project
 
-Project Overview
+## Project Overview
 
 **Objective**: To analyze the landscape of Shopify apps and identify key factors that contribute to app success on the platform.
 
