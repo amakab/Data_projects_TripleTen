@@ -111,8 +111,8 @@ About Me
 **Author:** Chiamaka Obieli  
 **Role:** Aspiring Business Intelligence Analyst  
 **Bootcamp:** TripleTen Data Analytics Program  
-**LinkedIn:** [Your LinkedIn Profile URL]  
-**Email:** [your.email@example.com]
+**LinkedIn:** [Chiamaka Obieli](www.linkedin.com/in/chiamaka-obieli-939b5284) 
+**Email:** [somaksy@gmail.com]
 
 ---
 
