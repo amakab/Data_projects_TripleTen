@@ -1,6 +1,6 @@
-Storytelling with Data: Superstore Return Analysis
+# Storytelling with Data: Superstore Return Analysis
 
-Project Overview
+## Project Overview
 
 **Goal**: To analyze customer return behavior at the Superstore and provide actionable insights for executive decision-making.
 
