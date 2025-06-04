@@ -5,7 +5,7 @@ This project was completed as part of the TripleTen Data Analytics Bootcamp. I t
 
 ---
 
-## 📌 Project Summary
+Project Summary
 
 **Client:** Zuber Ride-Sharing (Startup)  
 **Toolset:** SQL (PostgreSQL), Relational Databases  
@@ -17,9 +17,9 @@ This project was completed as part of the TripleTen Data Analytics Bootcamp. I t
 
 ---
 
-## 🗃 Database Structure
+Database Structure
 
-### Tables Used:
+Tables Used:
 
 1. **neighborhoods**
    - `neighborhood_id`, `name`
@@ -30,13 +30,13 @@ This project was completed as part of the TripleTen Data Analytics Bootcamp. I t
 4. **weather_records**
    - `record_id`, `ts`, `temperature`, `description`
 
-🧠 *Note:* `trips.start_ts` and `weather_records.ts` were joined using **rounded hour timestamps**.
+ *Note:* `trips.start_ts` and `weather_records.ts` were joined using **rounded hour timestamps**.
 
 ---
 
-## 🔍 Step 1: Exploratory Data Analysis (EDA)
+Step 1: Exploratory Data Analysis (EDA)
 
-### ✅ Questions Answered:
+Questions Answered:
 
 1. **Top Taxi Companies by Ride Volume (Nov 15–16, 2017)**  
    - Field: `trips_amount` (count of rides per company)  
@@ -50,16 +50,16 @@ This project was completed as part of the TripleTen Data Analytics Bootcamp. I t
    - Grouped all other companies into an "Other" category  
    - Sorted results by total rides taken
 
-📌 *Insight:* Flash Cab and Taxi Affiliation Services dominate Chicago’s taxi market.
+*Insight:* Flash Cab and Taxi Affiliation Services dominate Chicago’s taxi market.
 
 ---
 
-## 🌧️ Step 2: Hypothesis Test – Rainy Saturday Rides
+Step 2: Hypothesis Test – Rainy Saturday Rides
 
 **Objective:**  
 Analyze if ride **duration from Loop (ID 50) to O’Hare (ID 63)** increases on **rainy Saturdays**.
 
-### 🧪 Steps Performed:
+Steps Performed:
 
 1. **Tagged Weather Conditions:**
    - Used `CASE` to label each hour as:
@@ -74,11 +74,11 @@ Analyze if ride **duration from Loop (ID 50) to O’Hare (ID 63)** increases on 
 3. **Calculated Ride Durations:**
    - Focused only on records with valid weather info
 
-📌 *Result:* The average ride duration **increased significantly during “Bad” weather** on Saturdays compared to “Good” weather.
+*Result:* The average ride duration **increased significantly during “Bad” weather** on Saturdays compared to “Good” weather.
 
 ---
 
-## 🧠 Key Takeaways
+Key Takeaways
 
 - Zuber can expect **longer ride durations** in bad weather, especially on weekends.
 - This insight is critical for:
@@ -88,14 +88,14 @@ Analyze if ride **duration from Loop (ID 50) to O’Hare (ID 63)** increases on 
 
 ---
 
-## 📄 Final Report
+Final Report
 
 📎 [Download Full SQL Project Report (PDF)](./Your_Zuber_Project_File.pdf)  
 _(Replace with your actual PDF file name and ensure it's uploaded to your repo.)_
 
 ---
 
-## 🛠️ Skills Demonstrated
+Skills Demonstrated
 
 - Advanced SQL Querying
 - Time-based Data Joins
@@ -106,7 +106,7 @@ _(Replace with your actual PDF file name and ensure it's uploaded to your repo.)
 
 ---
 
-## 👩🏽‍💼 About Me
+About Me
 
 **Author:** Chiamaka Obieli  
 **Role:** Aspiring Business Intelligence Analyst  
@@ -116,12 +116,12 @@ _(Replace with your actual PDF file name and ensure it's uploaded to your repo.)
 
 ---
 
-## 🚀 What’s Next?
+What’s Next?
 
 Next steps in my analytics journey include:
 - Predictive modeling with Python
 - Building interactive dashboards with Power BI & Tableau
 - Automating ETL pipelines for real-time insights
 
-_Thank you for visiting this project. ⭐ Feel free to connect with me on LinkedIn or explore my other case studies._
+_Thank you for visiting this project. Feel free to connect with me on LinkedIn or explore my other case studies._
 Data_projects_TripleTen/Zuber README.md at main · amakab/Data_projects_TripleTen 
