@@ -91,7 +91,7 @@ Key Takeaways
 Final Report
 
 📎 [Download Full SQL Project Report (PDF)](./Your_Zuber_Project_File.pdf)  
-_(Replace with your actual PDF file name and ensure it's uploaded to your repo.)_
+
 
 ---
 
