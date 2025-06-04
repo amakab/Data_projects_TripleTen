@@ -1,6 +1,6 @@
-Zomato Sales Analysis – Power BI Final Project
+# Zomato Sales Analysis – Power BI Final Project
 
-Project Overview
+## Project Overview
 
 **Objective**: Analyze the sales performance of restaurants on Zomato to uncover trends, identify top performers, and deliver actionable insights for improving revenue.
 
@@ -8,7 +8,7 @@ As part of my onboarding assignment as a Junior Analyst at Zomato, I selected th
 
 ---
 
-Dataset Overview
+## Dataset Overview
 
 **Source**: Internal test dataset (`Zomato data.zip`)  
 **Tables Used**:
@@ -20,17 +20,17 @@ Dataset Overview
 
 ---
 
-Dashboard Components
+## Dashboard Components
 
 All visualizations were created in Power BI, grouped into a single report with multiple insights-driven visuals:
 
-Sales Trends
+### Sales Trends
 
 - **Line Chart**: Revenue over time (monthly granularity)
 - **Line Chart**: Number of orders per month
 - **KPI Tile**: Average order value (AOV) – _6.56K_
 
-Restaurant Performance
+### Restaurant Performance
 
 - **Bar Chart**: Top revenue-generating restaurants
   - _Domino’s emerged as the clear leader_
@@ -44,7 +44,7 @@ Restaurant Performance
 
 ---
 
-Key Insights
+## Key Insights
 
 1. **Seasonality Detected**: Sales dipped from **May to September**, with a strong recovery from **October to December**.
 2. **Top Restaurant**: Domino’s dominates revenue due to brand trust, logistics, and menu appeal.
@@ -54,7 +54,7 @@ Key Insights
 
 ---
 
-Recommendations
+## Recommendations
 
 - **Seasonal Promotions**: Launch marketing campaigns during slower months to smoothen revenue curves.
 - **Leverage Top Performers**: Partner with high-revenue restaurants (e.g., Domino’s) for exclusives or ads.
@@ -64,7 +64,7 @@ Recommendations
 
 ---
 
-Tools Used
+## Tools Used
 
 - **Visualization & Modeling**: Power BI Desktop
 - **Data Transformation**: Power Query and DAX
@@ -73,7 +73,7 @@ Tools Used
 
 ---
 
-Supplementary Files
+## Supplementary Files
 
 - `Zomato Sales Analysis Report.pdf`: Summary report and insights
 - `Zomato Sales Dashboard.pdf`: Dashboard screenshots
@@ -81,7 +81,7 @@ Supplementary Files
 
 ---
 
-Conclusion
+## Conclusion
 
 This project demonstrates how thoughtful data modeling, temporal analysis, and data storytelling can uncover business-critical insights. By focusing on revenue and restaurant performance, the report helps inform strategic decisions in marketing, partnerships, and customer engagement for Zomato.
 
