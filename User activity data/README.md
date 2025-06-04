@@ -1,10 +1,10 @@
-Business Analytics Project – E-commerce Funnel & Retention Analysis
+# Business Analytics Project – E-commerce Funnel & Retention Analysis
 
 Welcome to my Business Analytics project as part of the TripleTen Data Analytics Bootcamp. This project simulates a real-world scenario in which I was hired as a **Junior Analyst** at an e-commerce company to transform raw transaction logs into actionable business metrics, with a focus on **conversion funnel creation** and **customer retention analysis via cohorts**.
 
 ---
 
-Project Overview
+## Project Overview
 
 **Company Context:** E-commerce  
 **Project Title:** Turning Event Logs into Business Metrics  
@@ -15,7 +15,7 @@ Project Overview
 
 ---
 
-Objective
+## Objective
 
 Analyze raw event logs and answer key business questions:
 
@@ -25,9 +25,9 @@ Analyze raw event logs and answer key business questions:
 
 ---
 
-Project Deliverables
+## Project Deliverables
 
-Conversion Funnel
+### Conversion Funnel
 
 - **Stages Analyzed:**  
   - `view` → `shopping_cart` → `purchase`
@@ -41,7 +41,7 @@ Conversion Funnel
 
 ---
 
-Cohort Analysis
+### Cohort Analysis
 
 - Created acquisition cohorts based on **first purchase month**
 - Tracked each cohort’s engagement over a **5-month period**
@@ -51,7 +51,7 @@ Cohort Analysis
 
 ---
 
-Retention Rate Calculation
+### Retention Rate Calculation
 
 - Used `DATEDIF()` to calculate **cohort age**
 - Calculated monthly **retention rates** for each cohort
@@ -62,7 +62,7 @@ Retention Rate Calculation
 
 ---
 
-Data Preparation & Cleaning
+### Data Preparation & Cleaning
 
 - Filtered event types to isolate purchases
 - Created `first_purchase_date`, `event_month`, `first_purchase_month`, and `cohort_age` columns
@@ -84,7 +84,7 @@ Data Preparation & Cleaning
 
 ---
 
-Skills Demonstrated
+## Skills Demonstrated
 
 - Conversion Funnel Design
 - Retention & Cohort Analysis
@@ -95,13 +95,13 @@ Skills Demonstrated
 
 ---
 
-View Full Report
+## View Full Report
 
 📎 [Download PDF Report](./Copy%20of%20Business%20Analytics%20Project.pdf)  
 
 ---
 
-About Me
+## About Me
 
 **Author:** Chiamaka Obieli  
 **Role:** Aspiring Business Intelligence Analyst  
@@ -111,7 +111,7 @@ About Me
 
 ---
 
-What’s Next?
+## What’s Next?
 
 In future projects, I will transition from spreadsheet-based analysis to using SQL, Python, and BI tools like Power BI and Tableau to perform more advanced analytics and build dynamic dashboards.
 
