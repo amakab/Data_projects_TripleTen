@@ -1,10 +1,10 @@
-Data Visualization Project – Superstore Analysis with Tableau
+# Data Visualization Project – Superstore Analysis with Tableau
 
 Welcome to my Tableau Data Visualization project, developed as part of the TripleTen Data Analytics Bootcamp. In this project, I assumed the role of a data consultant hired to help a struggling superstore improve profitability through strategic visual analytics.
 
 ---
 
-Project Summary
+## Project Summary
 
 **Project Title:** Saving Superstore  
 **Tool Used:** Tableau  
@@ -13,7 +13,7 @@ Project Summary
 
 ---
 
-Objectives
+## Objectives
 
 - Detect which product categories and regions contribute most to profits and losses
 - Determine where and when to invest in advertising based on ROI
@@ -22,7 +22,7 @@ Objectives
 
 ---
 
-Key Analyses & Visualizations
+## Key Analyses & Visualizations
 
 ### 1. Profit & Loss Drivers
 
