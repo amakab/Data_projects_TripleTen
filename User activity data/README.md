@@ -72,7 +72,7 @@ Data Preparation & Cleaning
 
 ---
 
-## 🧾 Executive Summary (from project report)
+## Executive Summary (from project report)
 
 - **Conversion Funnel:**  
   The website has a solid cart-to-purchase conversion rate (36%), but could improve initial engagement from product views.
