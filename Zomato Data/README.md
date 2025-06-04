@@ -37,7 +37,7 @@ Restaurant Performance
 - **Bar Chart**: Revenue by cuisine type
   - _North Indian, Indian, and Chinese performed best_
 
-### 📅 Temporal Patterns
+### Temporal Patterns
 
 - **Heatmap**: Order volume by day of the month
   - Revealed variability in daily performance and peak days
