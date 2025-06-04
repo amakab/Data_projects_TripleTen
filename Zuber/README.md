@@ -1,11 +1,11 @@
 
-Zuber Ride-Share Analysis – SQL & Data Exploration
+# Zuber Ride-Share Analysis – SQL & Data Exploration
 
 This project was completed as part of the TripleTen Data Analytics Bootcamp. I took on the role of a business analyst for **Zuber**, a new ride-sharing company launching in **Chicago**. The goal was to analyze competitor taxi data, explore ride patterns, and test a hypothesis about the effect of **weather on ride durations**.
 
 ---
 
-Project Summary
+## Project Summary
 
 **Client:** Zuber Ride-Sharing (Startup)  
 **Toolset:** SQL (PostgreSQL), Relational Databases  
@@ -17,7 +17,7 @@ Project Summary
 
 ---
 
-Database Structure
+## Database Structure
 
 Tables Used:
 
@@ -34,7 +34,7 @@ Tables Used:
 
 ---
 
-Step 1: Exploratory Data Analysis (EDA)
+### Step 1: Exploratory Data Analysis (EDA)
 
 Questions Answered:
 
@@ -54,7 +54,7 @@ Questions Answered:
 
 ---
 
-Step 2: Hypothesis Test – Rainy Saturday Rides
+### Step 2: Hypothesis Test – Rainy Saturday Rides
 
 **Objective:**  
 Analyze if ride **duration from Loop (ID 50) to O’Hare (ID 63)** increases on **rainy Saturdays**.
@@ -78,7 +78,7 @@ Steps Performed:
 
 ---
 
-Key Takeaways
+### Key Takeaways
 
 - Zuber can expect **longer ride durations** in bad weather, especially on weekends.
 - This insight is critical for:
@@ -88,14 +88,14 @@ Key Takeaways
 
 ---
 
-Final Report
+### Final Report
 
 📎 [Download Full SQL Project Report (PDF)](./Your_Zuber_Project_File.pdf)  
 
 
 ---
 
-Skills Demonstrated
+### Skills Demonstrated
 
 - Advanced SQL Querying
 - Time-based Data Joins
@@ -106,7 +106,7 @@ Skills Demonstrated
 
 ---
 
-About Me
+### About Me
 
 **Author:** Chiamaka Obieli  
 **Role:** Aspiring Business Intelligence Analyst  
@@ -116,7 +116,7 @@ About Me
 
 ---
 
-What’s Next?
+### What’s Next?
 
 Next steps in my analytics journey include:
 - Predictive modeling with Python
